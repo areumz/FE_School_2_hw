@@ -1,0 +1,107 @@
+table {
+    margin-left: 30px;
+}
+
+th {
+    padding-right: 10px;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+    vertical-align: top;
+    font-weight: 700;
+}
+
+.year {
+    color: #BF1E2E;
+    font-family: 'Noto Sans KR', sans-serif;
+    letter-spacing: -5.1px;
+    font-size: 80px;
+    position: relative;
+    margin-top: 0;
+    margin-left: 30px;
+}
+
+h2 {
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.saying {
+    font-family: 'Gowun Dodum', sans-serif;
+    position: absolute;
+    top: 60px;
+    right: 300px;
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.sunday {
+    color:red;
+}
+
+.inbl {
+    display: inline-block;
+    position: relative;
+}
+
+.small {
+    color:black;
+    font-size: 5px;
+    display: inline-block;
+    position: absolute;
+    top:20px;
+    left: 2px;
+}
+
+.jan, .apr, .jul, .oct {
+    position: relative;
+}
+
+.feb {
+    position: absolute;
+    top: 178px;
+    left: 350px;
+}
+
+.mar {
+    position: absolute;
+    top: 178px;
+    left: 700px;
+}
+
+.may {
+    position: absolute;
+    top: 544px;
+    left: 350px;
+}
+
+.jun {
+    position: absolute;
+    top: 544px;
+    left: 700px;
+}
+
+.aug {
+    position: absolute;
+    top: 909px;
+    left: 350px;
+}
+
+.sep {
+    position: absolute;
+    top: 909px;
+    left: 700px;
+}
+
+.nov {
+    position: absolute;
+    top: 1276px;
+    left: 350px;
+}
+
+.dec {
+    position: absolute;
+    top: 1276px;
+    left: 700px;
+}
