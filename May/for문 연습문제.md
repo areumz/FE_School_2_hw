@@ -27,7 +27,7 @@ let data = [{
             }]
 ```
 
-1. 중간고사 점수를 하나의 array로 만들어주세요.
+1. 중간고사 점수를 하나의 array로 만들어주세요.   
 `console.log(data.map(x => x.중간고사점수))`
 
 for문으로 푼다면?
@@ -39,7 +39,7 @@ for(let i = 0 ; i < data.length; i++) {
 }
 ```
 
-2. 이름과 중간고사 점수를 하나의 array로 만들어주세요.
+2. 이름과 중간고사 점수를 하나의 array로 만들어주세요.   
 `console.log(data.map(x => [x.이름, x.중간고사점수]))`
 
 for문으로 푼다면?
